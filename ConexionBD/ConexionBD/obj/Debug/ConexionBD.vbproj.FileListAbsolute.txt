@@ -1,0 +1,11 @@
+c:\users\davmo\documents\visual studio 2015\Projects\ConexionBD\ConexionBD\bin\Debug\ConexionBD.exe.config
+c:\users\davmo\documents\visual studio 2015\Projects\ConexionBD\ConexionBD\bin\Debug\ConexionBD.exe
+c:\users\davmo\documents\visual studio 2015\Projects\ConexionBD\ConexionBD\bin\Debug\ConexionBD.pdb
+c:\users\davmo\documents\visual studio 2015\Projects\ConexionBD\ConexionBD\bin\Debug\ConexionBD.xml
+c:\users\davmo\documents\visual studio 2015\Projects\ConexionBD\ConexionBD\obj\Debug\ConexionBD.vbprojResolveAssemblyReference.cache
+c:\users\davmo\documents\visual studio 2015\Projects\ConexionBD\ConexionBD\obj\Debug\ConexionBD.Resources.resources
+c:\users\davmo\documents\visual studio 2015\Projects\ConexionBD\ConexionBD\obj\Debug\ConexionBD.vbproj.GenerateResource.Cache
+c:\users\davmo\documents\visual studio 2015\Projects\ConexionBD\ConexionBD\obj\Debug\ConexionBD.exe
+c:\users\davmo\documents\visual studio 2015\Projects\ConexionBD\ConexionBD\obj\Debug\ConexionBD.xml
+c:\users\davmo\documents\visual studio 2015\Projects\ConexionBD\ConexionBD\obj\Debug\ConexionBD.pdb
+c:\users\davmo\documents\visual studio 2015\Projects\ConexionBD\ConexionBD\obj\Debug\ConexionBD.Form1.resources
