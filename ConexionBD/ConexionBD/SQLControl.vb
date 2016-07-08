@@ -2,7 +2,7 @@
 
 Public Class SQLControl
 
-    Public SqlCon As New SqlConnection With {.ConnectionString = "Server=DAVID;Database=Viajes;User=sa;Pwd=rodador"}
+    Public SqlCon As New SqlConnection With {.ConnectionString = "Server=SERVIDOR;Database=BD;User=USER;Pwd=PASSWORD"}
     Public SqlConsultarTodos As String = "SELECT idViaje, titulo, descripcion, fecha FROM Viajes.dbo.misviajes;"
     Public SqlConsultarID As String = "SELECT idViaje, titulo FROM Viajes.dbo.misviajes;"
     Public miDataReader As SqlDataReader
